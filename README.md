@@ -15,6 +15,8 @@ The steps of the project are mainly as follows:
 - Training a model and make predictions on images.
 
 ---
+</br >
+
 
 ## Data Preprocessing and Labeling
 
@@ -23,6 +25,8 @@ Some unnecessary labels were removed and noises on mammogram images were cleaned
 <img src="figures/labeling.png"  />  
 
 ---
+</br >
+
 
 ## Feature Extraction
 
@@ -35,6 +39,8 @@ Also by applying some other filters, different features such as Edge, Entropy, M
 <img src="figures/gabor.png"  />  
 
 ---
+</br >
+
 
 ## Model Training
 
@@ -49,6 +55,11 @@ Thus in the new approach, the normal breast tissue was labeled as shown in the i
 <img src="figures/new_approach.png"  />  
 
 ---
+</br >
+
 
 An example result can be seen in the below image:
+
+</br >
+
 <img src="figures/result.png"  />  
